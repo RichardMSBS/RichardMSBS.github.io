@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Richard Baker-Strader"
+title                    : "Welcome"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Biologist. Environmental scientist. Friend to all the woodland creatures."
