@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Organic Chemistry I"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate course (Learning Assistant)"
+permalink: /teaching/2022-fall-teaching-1
+venue: "University of Southern California, Department of Chemistry"
+date: 2022
+location: "Los Angeles, California, US"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Answered student questions as part of a pilot program to embed learning assistants in USC's Organic Chemistry lecture sections.
