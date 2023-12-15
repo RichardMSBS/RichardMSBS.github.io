@@ -1,7 +1,7 @@
 ---
 title: "Organic Chemistry II"
 collection: teaching
-type: "Undergraduate class"
+type: "Undergraduate class (Learning Assistant)"
 permalink: /teaching/2023-spring-teaching-1
 venue: "University of Southern California, Department of Chemistry"
 date: 2023
