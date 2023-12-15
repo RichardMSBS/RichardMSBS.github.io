@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Richard Baker"
   avatar           : "1561784074998.jpg"
-  bio              : "MS Student\nCantley Lab of Plant Evolution\nSan Francisco State University"
+  bio              : "MS Student"<br>"Cantley Lab of Plant Evolution"<br>"San Francisco State University"
   location         : "Oakland, CA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
