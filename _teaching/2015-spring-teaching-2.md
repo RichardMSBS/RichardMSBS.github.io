@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Organic Chemistry II"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate class"
+permalink: /teaching/2023-spring-teaching-1
+venue: "University of Southern California, Department of Chemistry"
+date: 2023
+location: "Los Angeles, CA, US"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Answered student questions as part of a pilot program to embed learning assistants in USC's Organic Chemistry lecture sections. Authored a short handbook designed to introduce undergraduate students to the ChemDraw chemistry software suite.
