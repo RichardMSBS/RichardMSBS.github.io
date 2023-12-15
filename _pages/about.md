@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Richard Baker-Strader"
+# title: "Richard Baker-Strader"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
