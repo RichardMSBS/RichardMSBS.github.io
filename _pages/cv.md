@@ -7,11 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{google_docs}https://docs.google.com/document/d/1bAAbJCqRIbYWYWNs31MYLjoxJcrJTwmPRnf6XpmbH5c/{/google_docs}
-{google_docs}https://docs.google.com/document/d/1bAAbJCqRIbYWYWNs31MYLjoxJcrJTwmPRnf6XpmbH5c/|width:200|height:200|border:1|border_style:solid|border_color:#000000{/google_docs}
-{google_docs}https://docs.google.com/document/d/1bAAbJCqRIbYWYWNs31MYLjoxJcrJTwmPRnf6XpmbH5c/|width:200|height:200|link:yes|link_label:Label|link_position:top{/google_docs}
-{google_docs}https://docs.google.com/document/d/1bAAbJCqRIbYWYWNs31MYLjoxJcrJTwmPRnf6XpmbH5c/|link:yes{/google_docs}
-{google_docs}https://docs.google.com/document/d/1bAAbJCqRIbYWYWNs31MYLjoxJcrJTwmPRnf6XpmbH5c/|lang:it{/google_docs}
-{google_docs}https://docs.google.com/document/d/1bAAbJCqRIbYWYWNs31MYLjoxJcrJTwmPRnf6XpmbH5c/|lang:system{/google_docs}
-{google_docs}https://docs.google.com/document/d/1bAAbJCqRIbYWYWNs31MYLjoxJcrJTwmPRnf6XpmbH5c/|https:yes{/google_docs}
-{google_docs}https://docs.google.com/document/d/1bAAbJCqRIbYWYWNs31MYLjoxJcrJTwmPRnf6XpmbH5c/|mode:edit{/google_docs}
+<div style="text-align: center"> </div>
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTnvJP_aXNwMrVu4IKxpW9d3olOP0OQOYMlC-hwbRfJQHBtmmYePwifSgrLaj-MKKSr2oIsWp_Jlujq/pub?embedded=true">
+</iframe>
