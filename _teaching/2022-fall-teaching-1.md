@@ -8,4 +8,4 @@ date: 2022
 location: "Los Angeles, California, US"
 ---
 
-Answered student questions as part of a pilot program to embed learning assistants in USC's Organic Chemistry lecture sections.
+Engaged with students during in class activities as part of a pilot program to embed learning assistants in USC's Organic Chemistry lecture sections.
