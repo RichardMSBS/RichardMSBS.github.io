@@ -1,4 +1,4 @@
-l---
+---
 title: "Organic Chemistry II"
 collection: teaching
 type: "Undergraduate class (Learning Assistant)"
